@@ -5,7 +5,7 @@ import org.junit.runners.Suite;
 import org.junit.runners.Suite.SuiteClasses;
 
 @RunWith (Suite.class)
-@SuiteClasses({CadastroParaConsultarCadastroPositivo.class,CadastroParaConsultaScore.class,CadastroParaLimparNome.class})
+@SuiteClasses({CadastroParaConsultarCadastroPositivotest.class,CadastroParaConsultaScoretest.class,CadastroParaLimparNometest.class})
 
 public class TestAll {
 
